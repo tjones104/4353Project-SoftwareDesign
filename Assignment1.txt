@@ -1,0 +1,8 @@
+Answer these questions:
+
+1. Discuss your initial thoughts in details on how you will design this application? (2 points)
+
+2. Discuss what development methodology you will use and why? (2 points)
+3. Provide high level design / architecture of your solution that you are proposing? (6 points)
+
+NOTE: Include a separate file (may be a scan of hand drawn picture if you like, or a PDF, tiff, word document, etc.) which shows a UML diagram of your design.

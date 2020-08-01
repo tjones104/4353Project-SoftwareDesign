@@ -1,0 +1,36 @@
+{
+  "name": "4353-project",
+  "version": "1.0.0",
+  "description": "Project for 4353",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --timeout=3000",
+    "coverage": "nyc --reporter=html --reporter=text mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gibbsface/4353Project.git"
+  },
+  "author": "Cole Gibbs, Adair Fulweber, Tristan Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gibbsface/4353Project/issues"
+  },
+  "homepage": "https://github.com/Gibbsface/4353Project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "got": "^11.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^8.0.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nyc": "^15.1.0",
+    "password-hash": "^1.2.2",
+    "underscore": "^1.10.2",
+    "yargs": "^15.4.1"
+  }
+}
