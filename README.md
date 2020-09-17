@@ -1,14 +1,7 @@
-# 4353Project
-To run you need to do the following:
-* Download Node.js
-* `cd project-frontend`
-* For the first time after cloning project run `npm install`
-* `npm start`
+# 4353 Software Development Project
+# This project was created by Tristan Jones, Adair Fulweber, and Cole Gibbs.
 
-
-* What the site currently looks like
-* Login Page: https://i.imgur.com/EAw7ah5.jpg
-* Register Page: https://i.imgur.com/hCbDtxR.jpg
-* Profile Page: https://i.imgur.com/JrbBGLX.jpg
-* Fuel Quote Order Page: https://i.imgur.com/KGCrmti.jpg
-* Fuel Quote History Page: https://i.imgur.com/wnNdInt.jpg
+This was a first attempt at creating a full stack application using React with no prior knowledge of the React libraries, javascript, html, css, or sql.
+Creation time: Jun 07 - Aug 16
+To see more information about this project please visit the main branch below
+https://github.com/Gibbsface/4353Project/graphs/contributors
