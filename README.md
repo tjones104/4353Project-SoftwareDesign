@@ -1,6 +1,6 @@
 # 4353 Software Development Project 
 
-##MERN(MySQL, Express, React, Node) Stack
+## MERN(MySQL, Express, React, Node) Stack
 
 ## Members
 - Adair Fulweber
