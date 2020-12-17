@@ -1,12 +1,11 @@
 # 4353 Software Development Project 
 
-## MERN(MySQL, Express, React, Node) Stack
-
 ## Members
 - Adair Fulweber
 - Tristan Jones
 - Cole Gibbs
 
+#### MERN(MySQL, Express, React, Node) Stack
 
 #### Creation time: Jun 07 - Aug 16
 
